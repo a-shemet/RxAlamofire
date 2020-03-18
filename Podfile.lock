@@ -22,7 +22,7 @@ PODS:
   - RxSwift (3.0.0-beta.1)
 
 DEPENDENCIES:
-  - Alamofire (~> 4.0)
+  - Alamofire (~> 5.0)
   - OHHTTPStubs (~> 5.0)
   - OHHTTPStubs/Swift (~> 5.0)
   - RxBlocking (from `https://github.com/ReactiveX/RxSwift.git`, tag `3.0.0-beta.1`)
